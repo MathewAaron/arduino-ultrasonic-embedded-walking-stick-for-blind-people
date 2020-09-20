@@ -7,7 +7,7 @@ Circuit provided in paper
 
 Hardware description:
   i. Microcontroller: Arduino 2560 (compactible with UNO as well)
-  ii. Ultrasonic sensors: Maxbotix 1040
+  ii. Ultrasonic sensors: Maxbotix 1040 (left,right,center)
   iii. DC motors x2
   
  Software:
